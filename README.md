@@ -1,6 +1,8 @@
-# Unichat Application
+# Let's Chat
 
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+
+## Live Preview: (https://lets-chat16.netlify.app/) 
 
 ## Introduction
 
@@ -10,6 +12,3 @@ You will learn how to build a react chat app using [https://chatengine.io](https
 
 Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
 
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
